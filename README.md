@@ -2,7 +2,7 @@
 <p> Eu sou o Maicol, desenvolvedor de software, aplicações web e mobile.</p>
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Maiquera&show_icons=true&theme=gotham">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiquera&layout=compact&langs_count=8&theme=gotham">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiquera&langs_count=8&theme=gotham">
 </div>
 <br>
 <div>
