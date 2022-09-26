@@ -29,7 +29,7 @@
 
 <div align="center">
   <img src="https://img.icons8.com/ios/150/FF0000/error--v1.png"/>
-  <p>Despite being on GitHub since 2018, I'm currently updating my repositories to make more interesting projects available, new projects coming soon...</p>
+  <p>I'm currently updating my repositories to make more interesting projects available, new projects coming soon...</p>
 </div>
 <br>
 <h3>For more information:</h3>
