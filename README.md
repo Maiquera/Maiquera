@@ -1,11 +1,6 @@
 <h1> Hello World </h1>
 <p> Hi, I'm Maicol, desktop developer, web and mobile applications.<br>
  I love learning new programming languages or at least getting an overview of them. In addition, I like to walk, read, listen to music and watch movies, series and anime.</p>
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Maiquera&show_icons=true&bg_color"#fff">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiquera&langs_count=8&bg_color"#fff">
-</div>
-<br>
 <div>
   <h3>Technologies:</h3>
   <p> Some technologies that I have some knowledge of.</p>
